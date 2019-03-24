@@ -1,3 +1,8 @@
 # React-Native-Iniciante com Native Base
 
-Neste projeto, foi criada apenas uma tela simples com algumas funções do Native Base
+## Após a instalação do RN(React Native)
+
+O projeto é criado com o sguinte comando: 
+
+**react-native init nomeProjeto**
+
