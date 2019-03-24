@@ -10,7 +10,7 @@ Crie o projeto com o sguinte comando:
   
 1. Inicie o emulador
 
-2. Dento da pasta, digite o seguinte comando:
+2. Acesse a pasta e execure:
 
 **cd HelloWorldWhitRN**
 
