@@ -10,7 +10,7 @@ Crie o projeto com o sguinte comando:
   
 1. Inicie o emulador
 
-**~/ emulator -avd NomeDoEmulador
+**~/ emulator -avd NomeDoEmulador**
 
 Obs: Caso você não saiba o nome do emulador instalado, digite o seguinte comando no terminal:
 
